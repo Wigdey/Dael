@@ -1,0 +1,2 @@
+# Dael
+Bot Trading
